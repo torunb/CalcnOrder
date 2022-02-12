@@ -1,0 +1,6 @@
+Reflections:
+The project overall was a well coordinated team effort and it would not have been possible without each individual person's contribution. This was the time ever making
+a large scale project which was not restricted to the terminal and had real life implementation.It was a very pleasant experience and we learned a lot. However, there are some 
+things which might be done differently if attempted next time. More focus on model classes to reduce inter-classes relationship. There was a lot of dependency between classes,
+which created problems when calling certain references. The hardest part was working on a project without knowing the contents of the what we were working on as another group
+members were working on that. Overall, it was a huge success and we look forward to working on such projects again.
